@@ -1,0 +1,176 @@
+Site_Name	trap_number	month	day	year	acerPens	acerRubr	acerSacc	acerSpic	amelLaev	betuLent	caryTome	cornAlte	cornFlor	faguGran	fraxAmer	fraxPenn	kalmLati	liriTuli	magnTrip	oxydArbo	prunSero	querAlba	querCocc	querMich	querPrin	querRubr	querVelu	querUnkn	querImma	rhodCata	robiPseu	robiPseu_fruit	tiliAmer	tsugCana	tsugCana_fruit	sorbAmer	sorbAmer_fruit	unknUNKN	notes
+Purchase_Knob	1	5	29	2012	0	33	0	0	0	7	0	NaN	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	NaN	NaN	2	0	0	0	0	0	0	0	0	
+Purchase_Knob	2	5	29	2012	0	39	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	3	5	29	2012	0	227	0	0	0	2	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	4	5	29	2012	0	284	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	5	5	29	2012	0	294	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	139 acer immature
+Purchase_Knob	6	5	29	2012	0	62	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	11	0	0	0	0	0	0	0	0	
+Purchase_Knob	7	5	29	2012	0	10	0	0	0	1	0	NaN	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	8	5	29	2012	0	62	0	0	0	0	0	NaN	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	9	5	29	2012	0	81	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	10	5	29	2012	0	358	0	0	0	18	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	11	5	29	2012	0	2	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	12	5	29	2012	0	17	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	13	5	29	2012	0	20	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	1	0	0	0	0	
+Purchase_Knob	14	5	29	2012	0	22	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	15	5	29	2012	0	44	0	0	1	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	378	0	0	0	0	0	0	0	0	
+Purchase_Knob	16	5	29	2012	3	14	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	6 acer immature
+Purchase_Knob	17	5	29	2012	0	12	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	18	0	0	0	0	
+Purchase_Knob	18	5	29	2012	0	9	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	19	5	29	2012	0	7	0	0	0	0	0	NaN	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	NaN	NaN	9	0	0	0	0	0	0	0	0	
+Purchase_Knob	20	5	29	2012	0	5	0	0	0	2	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	17	0	0	0	0	0	0	0	0	
+Purchase_Knob	21	5	29	2012	0	6	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	22	5	29	2012	0	18	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	23	5	29	2012	0	12	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	24	5	29	2012	0	25	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	NaN	NaN	0	0	0	0	0	0	0	0	0	10 acim
+Purchase_Knob	25	5	29	2012	0	34	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	was labeled as 40,20, might not be 60,60?
+Purchase_Knob	1	5	20	2013	0	8	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	2	5	20	2013	0	2	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	3	5	20	2013	0	7	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	5	0	0	0	0	0	
+Purchase_Knob	4	5	20	2013	0	0	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	16	0	0	0	0	11	
+Purchase_Knob	5	5	20	2013	0	1	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	16	0	0	0	0	0	
+Purchase_Knob	6	5	20	2013	0	6	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	7	5	20	2013	0	0	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	1	0	0	0	0	0	
+Purchase_Knob	8	5	20	2013	0	0	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	no seeds
+Purchase_Knob	9	5	20	2013	0	0	0	0	0	0	0	NaN	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	5	0	0	0	0	0	one immature unknown quercus
+Purchase_Knob	10	5	20	2013	0	3	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	11	5	20	2013	0	61	0	0	1	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	has emerald ash borers
+Purchase_Knob	12	5	20	2013	0	0	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	no seeds
+Purchase_Knob	13	5	20	2013	0	0	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	3	0	0	0	0	0	
+Purchase_Knob	14	5	20	2013	0	0	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	2	0	0	0	0	0	
+Purchase_Knob	15	5	20	2013	0	0	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	no seeds
+Purchase_Knob	16	5	20	2013	0	0	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	no seeds
+Purchase_Knob	17	5	20	2013	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	no bag collected
+Purchase_Knob	18	5	20	2013	0	0	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	1	0	0	0	0	0	
+Purchase_Knob	19	5	20	2013	0	0	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	3	0	0	0	0	0	
+Purchase_Knob	20	5	20	2013	0	1	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	21	5	20	2013	0	2	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	22	5	20	2013	0	19	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	1	0	0	0	0	0	
+Purchase_Knob	23	5	20	2013	0	2	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	109	0	0	0	0	0	0	1	0	emerald ash borer
+Purchase_Knob	24	5	20	2013	0	0	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	no seeds
+Purchase_Knob	25	5	20	2013	0	0	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NaN	NaN	0	0	0	0	0	0	0	0	0	no seeds
+Purchase_Knob	1	10	17	2013	0	53	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	2	10	17	2013	0	52	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	
+Purchase_Knob	3	10	17	2013	0	35	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	4	10	17	2013	0	22	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	5	10	17	2013	0	17	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	
+Purchase_Knob	6	10	17	2013	0	32	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	12	0	0	0	0	0	0	0	0	7	immature are quco
+Purchase_Knob	7	10	17	2013	0	37	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	
+Purchase_Knob	8	10	17	2013	0	34	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	19	0	0	0	0	0	0	0	0	0	quercus caps
+Purchase_Knob	9	10	17	2013	0	35	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	5	0	3	0	120	0	0	0	0	0	0	0	0	0	caps and crushed quun
+Purchase_Knob	10	10	17	2013	0	6	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	
+Purchase_Knob	11	10	17	2013	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	no bag collected
+Purchase_Knob	12	10	17	2013	0	86	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	13	10	17	2013	0	23	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	4	6	0	0	6	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	14	10	17	2013	0	23	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	3 qupr caps
+Purchase_Knob	15	10	17	2013	0	14	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	6	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	16	10	17	2013	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	no bag collected
+Purchase_Knob	17	10	17	2013	0	137	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	18	10	17	2013	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	no bag collected
+Purchase_Knob	19	10	17	2013	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	no bag collected
+Purchase_Knob	20	10	17	2013	0	12	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	21	10	17	2013	0	31	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2 qupr caps
+Purchase_Knob	22	10	17	2013	0	41	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	23	10	17	2013	0	0	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	24	10	17	2013	0	21	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	25	10	17	2013	0	11	0	0	0	0	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	1	6	9	2014	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	2	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	3	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	4	6	9	2014	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	quer bits
+Purchase_Knob	5	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	6	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	acorn cap
+Purchase_Knob	7	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	nothing 
+Purchase_Knob	8	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	9	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	acorn caps
+Purchase_Knob	10	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	11	6	9	2014	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	12	6	9	2014	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	13	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	nothing
+Purchase_Knob	14	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	nothing
+Purchase_Knob	15	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	nothing
+Purchase_Knob	16	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	qual cap
+Purchase_Knob	17	6	9	2014	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	18	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	nothing
+Purchase_Knob	19	6	9	2014	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	20	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	nothing
+Purchase_Knob	21	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	22	6	9	2014	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	no sample, no scree
+Purchase_Knob	23	6	9	2014	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	8 rhca pods
+Purchase_Knob	24	6	9	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	no seed
+Purchase_Knob	25	6	9	2014	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	1	10	27	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	2	0	0	0	0	0	0	0	0	0	0	0	0	1 quru cap, 32 qupr caps, 7 immature qupr
+Purchase_Knob	2	10	27	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	8 quru caps
+Purchase_Knob	3	10	27	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	3 acun hulls, 1 qual cap, 1 quco cap, 1 quun immature, 6 quun pieces
+Purchase_Knob	4	10	27	2014	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	205	0	0	0	0	0	0	0	0	0	0	0	0	quun immature 21, quun pieces 51, quru caps 77, qupr caps 2, acsa hull 1
+Purchase_Knob	5	10	27	2014	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	not collected, basket down
+Purchase_Knob	6	10	27	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	32	0	0	0	0	0	0	0	0	0	0	0	0	14 quru immature, 1 qupr cap, 6 quru caps
+Purchase_Knob	7	10	27	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	7 quru caps, 1 quru piece, 2 quru immature, 1 unkn drupe
+Purchase_Knob	8	10	27	2014	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	26	0	0	0	0	0	0	0	0	0	0	0	0	2 qual cap, 1 quru cap, 12 quun immature, 4 quun pieces, 2 acsa hulls
+Purchase_Knob	9	10	27	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	15	0	0	0	0	0	0	0	0	0	0	0	0	6 quun immature, 6 quru cap, 4 qual cap
+Purchase_Knob	10	10	27	2014	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	0	0	0	0	16 quru caps
+Purchase_Knob	11	10	27	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3 quru caps
+Purchase_Knob	12	10	27	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	3 qupr caps
+Purchase_Knob	13	10	27	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	13	0	0	0	0	0	0	0	0	0	0	0	0	8 quru caps, 8 immature quru, 17 quun pieces
+Purchase_Knob	14	10	27	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	7	0	0	0	0	0	0	0	0	0	0	0	0	16 immature quun, 7 qupr caps, 5 quru caps
+Purchase_Knob	15	10	27	2014	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	not collected, basket down
+Purchase_Knob	16	10	27	2014	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	not collected, basket down
+Purchase_Knob	17	10	27	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	1	0	0	0	0	0	0	0	0	0	0	0	0	1 unkn berry, 2 quru caps
+Purchase_Knob	18	10	27	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	7 quun pieces, 2 quru caps, 1 qual cap
+Purchase_Knob	19	10	27	2014	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	not collected, basket down
+Purchase_Knob	20	10	27	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	0	0	0	0	0	0	0	0	0	0	0	0	70 quru caps
+Purchase_Knob	21	10	27	2014	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	not collected, basket down
+Purchase_Knob	22	10	27	2014	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	not collected, basket down
+Purchase_Knob	23	10	27	2014	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	not collected, basket down
+Purchase_Knob	24	10	27	2014	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	not collected, basket down
+Purchase_Knob	25	10	27	2014	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	not collected, basket down
+Purchase_Knob	1	5	13	2015	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	2	5	13	2015	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	3	5	13	2015	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	4	5	13	2015	0	4	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	1 BELE BRACT
+Purchase_Knob	5	5	13	2015	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	6	5	13	2015	1	4	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	6 QURU CAPS
+Purchase_Knob	7	5	13	2015	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1	5 QURU CAPS
+Purchase_Knob	8	5	13	2015	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	no seeds 
+Purchase_Knob	9	5	13	2015	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	QUUN PIECES
+Purchase_Knob	10	5	13	2015	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	11	5	13	2015	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	12	5	13	2015	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1 QURU CAP
+Purchase_Knob	13	5	13	2015	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	QUUN PIECES
+Purchase_Knob	14	5	13	2015	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	QUUN PIECES
+Purchase_Knob	15	5	13	2015	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1 BELE BRACT
+Purchase_Knob	16	5	13	2015	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	QUUN PIECES
+Purchase_Knob	17	5	13	2015	14	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	18	5	13	2015	2	2	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	19	5	13	2015	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	netting ripped no sample
+Purchase_Knob	20	5	13	2015	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1 QURU CAP
+Purchase_Knob	21	5	13	2015	16	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	1	0	0	0	0	0	0	0	0	0	3 QURU CAPS
+Purchase_Knob	22	5	13	2015	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	netting ripped no sample
+Purchase_Knob	23	5	13	2015	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	24	5	13	2015	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	2 QURU CAPS
+Purchase_Knob	25	5	13	2015	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	netting ripped no sample
+Purchase_Knob	1	10	28	2015	0	85	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	2	10	28	2015	0	61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	3	10	28	2015	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	4	10	28	2015	0	119	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	11	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	5	10	28	2015	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	5	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	6	10	28	2015	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	13	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	7	10	28	2015	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	5	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	8	10	28	2015	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	9	10	28	2015	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	10	10	28	2015	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NO SAMPLE
+Purchase_Knob	11	10	28	2015	0	239	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	12	10	28	2015	0	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	1	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	13	10	28	2015	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	5	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	14	10	28	2015	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	2	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	15	10	28	2015	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	2	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	16	10	28	2015	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NO SAMPLE
+Purchase_Knob	17	10	28	2015	0	93	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	18	10	28	2015	0	57	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	19	10	28	2015	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NO SAMPLE
+Purchase_Knob	20	10	28	2015	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NO SAMPLE
+Purchase_Knob	21	10	28	2015	0	149	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	22	10	28	2015	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NO SAMPLE
+Purchase_Knob	23	10	28	2015	0	131	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	61	0	0	16	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	24	10	28	2015	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	26	0	0	0	0	0	0	0	0	0	
+Purchase_Knob	25	10	28	2015	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NO SAMPLE

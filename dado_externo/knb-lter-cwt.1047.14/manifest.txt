@@ -1,0 +1,13 @@
+Manifest file for knb-lter-cwt.1047.14.zip created on Mon Jun 08 19:40:57 UTC 2026
+Clingmans_Dome_Seed_Data_1_1047.TXT (13431 bytes)
+Clingmans_Dome_Tree_Data_1_1047.TXT (55691 bytes)
+Noland_Divide_Seed_Data_1_2094.TXT (15389 bytes)
+Noland_Divide_Tree_Data_1_1047.TXT (440442 bytes)
+Purchase_Knob_Seed_Data_1_1047.TXT (20966 bytes)
+Purchase_Knob_Tree_Data_1_1047.TXT (50911 bytes)
+Trap_Locations_1_1047.TXT (3257 bytes)
+Tree_Codes_1_1047.TXT (1741 bytes)
+1047.kml (1553 bytes)
+knb-lter-cwt.1047.14.xml (224532 bytes)
+knb-lter-cwt.1047.14.txt (51659 bytes)
+knb-lter-cwt.1047.14.report.xml (136495 bytes)

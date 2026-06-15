@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>README</title>
+
+<style>
+body { font-family: sans-serif; line-height: 1.6; margin: 0 auto; max-width: 800px; padding: 20px; }
+h1, h2, h3, h4, h5, h6 { color: #333; }
+pre { background-color: #f4f4f4; border: 1px solid #ddd; border-left: 3px solid #f36d33; color: #666; page-break-inside: avoid; font-family: monospace; font-size: 15px; line-height: 1.6; margin-bottom: 1.6em; max-width: 100%; overflow: auto; padding: 1em 1.5em; display: block; word-wrap: break-word; }
+code { background-color: #f4f4f4; padding: 2px 4px; border-radius: 3px; }
+table { width: 100%; border-collapse: collapse; margin-bottom: 1em; }
+th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+th { background-color: #f2f2f2; }
+blockquote { border-left: 4px solid #ccc; margin: 1.5em 10px; padding: 0.5em 10px; color: #666; }
+a { color: #007bff; text-decoration: none; }
+a:hover { text-decoration: underline; }
+</style>
+
+</head>
+<body>
+<h1>Análise da Vulnerabilidade Climática de Florestas nos Apalaches do Sul</h1>
+<p>Este repositório contém scripts e análises relacionadas ao dataset <code>knb-lter-cwt.1047.14</code>, focado na vulnerabilidade climática das florestas nos Apalaches do Sul. O projeto investiga como as mudanças climáticas afetam a dinâmica populacional de espécies arbóreas, incluindo crescimento, mortalidade e reprodução.</p>
+<h2>Pergunta de Pesquisa</h2>
+<blockquote>
+<p><strong>"Como a dinâmica de crescimento, mortalidade e reprodução das espécies arbóreas nos Apalaches do Sul varia em resposta às condições ambientais ao longo do tempo, e quais espécies demonstram maior resiliência ou vulnerabilidade?"</strong></p>
+</blockquote>
+<h2>Descrição do Dataset (<code>knb-lter-cwt.1047.14</code>)</h2>
+<p>O dataset <strong>"Climate Vulnerability of Southern Appalachian Forests"</strong> (Vulnerabilidade Climática das Florestas do Sul dos Apalaches), identificado pelo código <code>knb-lter-cwt.1047.14</code>, é parte do programa de Pesquisa Ecológica de Longa Duração de Coweeta (<strong>CWT-LTER</strong>). Este estudo, liderado pelo <strong>Dr. James S. Clark</strong> da Duke University, investiga como as mudanças climáticas — especificamente variações de temperatura e umidade — afetam a biodiversidade florestal. O foco principal é entender as respostas individuais das árvores em termos de <strong>fecundidade, crescimento e sobrevivência</strong>, permitindo prever como a composição das espécies pode mudar à medida que o clima evolui.</p>
+<h3>Escopo e Metodologia</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Atributo</th>
+<th style="text-align: left;">Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Período Temporal</strong></td>
+<td style="text-align: left;">1º de janeiro de 2011 a 31 de dezembro de 2017.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Localização Geográfica</strong></td>
+<td style="text-align: left;">Laboratório Hidrológico de Coweeta, Carolina do Norte, EUA (incluindo locais como Clingmans Dome e Purchase Knob).</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Metodologia de Censo</strong></td>
+<td style="text-align: left;">Mapeamento e monitoramento de árvores com altura superior a 2 metros, marcadas com etiquetas de alumínio.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Coleta de Sementes</strong></td>
+<td style="text-align: left;">Uso de armadilhas de sementes (25 por parcela) visitadas duas vezes ao ano (primavera e outono) para quantificar a reprodução.</td>
+</tr>
+</tbody>
+</table>
+<h3>Estrutura dos Dados e Variáveis Chave</h3>
+<p>O banco de dados é estruturado em tabelas que separam dados de censo arbóreo e dados de produção de sementes. As principais variáveis incluem:</p>
+<ul>
+<li><strong>Dados de Censo de Árvores:</strong> Identificadores únicos (<code>ID</code>, <code>tag</code>), espécie (<code>species</code>), status de vida (<code>growinyr</code>, <code>censinyr</code>, <code>deathyr</code>), localização espacial (<code>postX</code>, <code>postY</code>, <code>UTM_Easting</code>, <code>UTM_Northing</code>) e medições físicas (e.g., <code>diam2011</code>, <code>diam2014</code> para DBH).</li>
+<li><strong>Dados de Produção de Sementes:</strong> Contagens de sementes para diversas espécies (e.g., <code>abieFras</code>, <code>acerSpic</code>, <code>piceRube</code>, <code>sorbAmer</code>) e notas (<code>notes</code>).</li>
+</ul>
+<p>Os metadados seguem o padrão <strong>EML 2.1.0</strong> (Ecological Metadata Language), garantindo a interoperabilidade e a riqueza de detalhes sobre a coleta e processamento dos dados.</p>
+<h2>Análises e Visualizações</h2>
+<p>O script R (<code>knb-lter-cwt.1047.14.r</code> e <code>analysis_and_viz.R</code>) realiza uma síntese ecológica integrando dados demográficos individuais com padrões reprodutivos de longo prazo. Primeiramente, é executado um processamento de dados longitudinais para calcular o incremento diamétrico (crescimento) e as taxas de mortalidade anual, permitindo identificar tendências de vigor biológico entre as diferentes espécies monitoradas. Complementarmente, a análise espacial mapeia a distribuição das comunidades, o que possibilita investigar padrões de competição e ocupação de nicho dentro das parcelas experimentais.</p>
+<p>Além da demografia, o script processa as séries temporais de produção de sementes, correlacionando o sucesso reprodutivo com as janelas temporais de observação. As visualizações geradas, que incluem <em>boxplots</em> de crescimento e gráficos de tendências anuais, transformam dados tabulares complexos em indicadores visuais claros sobre a saúde do ecossistema. Essa abordagem integrada fornece uma base robusta para modelar a vulnerabilidade climática da floresta, destacando as variações específicas em como cada espécie responde às pressões ambientais do período estudado.</p>
+<h3>Trechos de Código para Análise e Visualização</h3>
+<p>O arquivo <code>analysis_and_viz.R</code> contém os seguintes tipos de análises e visualizações:</p>
+<ol>
+<li><strong>Tendência Temporal da Produção de Sementes:</strong> Gráfico de linhas mostrando a variação anual na contagem de sementes por espécie.</li>
+<li><strong>Crescimento de Árvores (DBH) por Espécie:</strong> Boxplot da mudança no DBH entre 2011 e 2014 para diferentes espécies.</li>
+<li><strong>Taxa de Mortalidade de Árvores:</strong> Gráfico de barras do número de mortes de árvores registradas por ano.</li>
+<li><strong>Distribuição Espacial das Árvores:</strong> Gráfico de dispersão das coordenadas UTM das árvores por espécie.</li>
+</ol>
+<h2>Como Usar</h2>
+<p>Para replicar as análises e gerar as visualizações:</p>
+<ol>
+<li><strong>Pré-requisitos:</strong> Certifique-se de ter o R instalado em seu sistema.</li>
+<li><strong>Pacotes R:</strong> Instale os pacotes necessários executando os seguintes comandos no console R, se ainda não os tiver:
+    <code>R
+    install.packages("dplyr")
+    install.packages("ggplot2")
+    install.packages("tidyr")</code></li>
+<li><strong>Download dos Dados:</strong> O script <code>knb-lter-cwt.1047.14.r</code> já inclui a lógica para baixar os dados diretamente do repositório EDI.</li>
+<li><strong>Executar o Script:</strong> Abra o arquivo <code>knb-lter-cwt.1047.14.r</code> no RStudio ou em seu ambiente R preferido e execute-o. Certifique-se de que o arquivo <code>analysis_and_viz.R</code> esteja no mesmo diretório ou que o caminho para ele esteja corretamente especificado.</li>
+<li><strong>Resultados:</strong> Os gráficos gerados serão salvos como arquivos PNG no diretório de trabalho do seu script.</li>
+</ol>
+<h2>Contribuição</h2>
+<p>Contribuições são bem-vindas! Sinta-se à vontade para abrir <em>issues</em> ou enviar <em>pull requests</em> com melhorias, correções ou novas análises.</p>
+<h2>Licença</h2>
+<p>Este projeto é distribuído sob a licença <a href="https://opensource.org/licenses/MIT">MIT</a>.</p>
+</body>
+</html>

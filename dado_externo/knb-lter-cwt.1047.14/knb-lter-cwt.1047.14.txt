@@ -1,0 +1,2042 @@
+Dataset title:  Climate Vulnerability of Southern Appalachian Forests
+
+Dataset ID:  knb-lter-cwt.1047.1.1
+Dataset Creator
+
+	Organization:	Coweeta Long Term Ecological Research Program
+	
+	Address:
+			Daniel B. Warnell School of Forestry and Natural Resources
+			University of Georgia
+			Athens, Georgia 30602  USA
+	
+	Email:		cwtim@uga.edu
+	URL:		http://coweeta.uga.edu/
+
+	Name:		Dr. James Clark
+	Organization:	Duke University
+	
+	Address:
+			Nicholas School of the Environment
+			Department of Statistical Science
+			Durham, NC 27706  USA
+	
+	Email:		jimclark@duke.edu
+	URL:		https://sites.nicholas.duke.edu/clarklab/people/
+
+
+Metadata Provider
+
+
+
+Dataset Abstract
+
+	The loss of species due to climate change and their replacement by expansion and immigration of others will depend on individual responses in terms of fecundity, growth, and survival.  The approach involves longitudinal analysis of individuals subjected to variation in risk factors over time.  Individual trees differ in how they respond to temperature and moisture, depending on their local competitive environment.  For example, individuals with access to high light levels can often better exploit available moisture, an example of a positive interaction.  By documenting changes in growth, fecundity, and survival between individuals subject to different conditions and within individuals, as their environments change through time we can develop a detailed understanding of how vulnerability differs among individuals and why.
+
+
+Dataset Keywords
+
+	crown class
+	Forest Biodiversity
+	population studies
+	Coweeta Hydrologic Laboratory
+	North Carolina
+	USA
+	CWT
+	LTER
+	climate
+	climate change
+	communities
+	competition
+	mortality
+	plant growth
+	plant species composition
+	seed banks
+	seedling
+	species composition
+	stems
+	survival
+	survivorship
+	tree growth
+	tree mortality
+	Population Dynamics
+
+
+Intellectual Rights
+
+	not specified
+
+
+Distribution
+
+	Online distribution:  http://coweeta.uga.edu/dbpublic/dataset_details.asp?accession=1047
+
+
+Temporal Coverage
+
+	Start Date:  2011-01-01
+	End Date:  2017-12-31
+
+
+Dataset Contact
+
+
+
+Methods
+
+	Sampling Description 
+
+
+
+	Method Step 
+
+		Description 
+
+
+
+	Method Step 
+
+		Description 
+
+
+
+	Method Step 
+
+		Description 
+
+
+
+		Instrumentation
+
+			DBH tape
+
+
+Data Table
+
+	Entity Name:  Clingmans_Dome_Seed_Data
+	Entity Description:  Clingmans Dome Seed Data
+	Object Name:  Clingmans_Dome_Seed_Data_1_1047.TXT
+
+
+
+Data Format
+
+	Number of Header Lines:  1
+	Attribute Orientation:  column
+	Field Delimiter:  \t
+
+
+
+Attributes
+
+	Attribute Name:  Site_Name
+	Attribute Label:  
+	Attribute Definition:  Site Name
+	Storage Type:  string
+	Measurement Scale: 
+		Site Name
+	Missing Value Code: 
+
+
+	Attribute Name:  trap_number
+	Attribute Label:  
+	Attribute Definition:  Trap number
+	Storage Type:  integer
+	Measurement Scale: 
+		Trap number
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  month
+	Attribute Label:  
+	Attribute Definition:  month
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  day
+	Attribute Label:  
+	Attribute Definition:  day
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  year
+	Attribute Label:  
+	Attribute Definition:  year
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  abieFras
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  abieFras_fruit
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  acerSpic
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  acerUNKN
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  betuUNKN
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  piceRube
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  piceRube_fruit
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  prunPens
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  rhodCata
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  sorbAmer
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  sorbAmer_fruit
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  vibuLant
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  unknUNKN
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  notes
+	Attribute Label:  
+	Attribute Definition:  notes and comments
+	Storage Type:  string
+	Measurement Scale: 
+		notes and comments
+	Missing Value Code: 
+
+
+	Attribute Name:  Site_Name
+	Attribute Label:  
+	Attribute Definition:  Site Name
+	Storage Type:  string
+	Measurement Scale: 
+		Site Name
+	Missing Value Code: 
+
+
+	Attribute Name:  ID
+	Attribute Label:  
+	Attribute Definition:  Unique tree id, Stem number is indicated by decimal
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  dimensionless
+		Precision:  0.01
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  tag
+	Attribute Label:  
+	Attribute Definition:  The tag number of the tree in the field
+	Storage Type:  integer
+	Measurement Scale: 
+		The tag number of the tree in the field
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  species
+	Attribute Label:  
+	Attribute Definition:  Species code (see species code table)
+	Storage Type:  string
+	Measurement Scale: 
+		Species code (see species code table)
+	Missing Value Code: 
+
+
+	Attribute Name:  stem
+	Attribute Label:  
+	Attribute Definition:  Number of stems
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  censinyr
+	Attribute Label:  
+	Attribute Definition:  Year in which a tree was censused in to the data, as opposed to growing in
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  growinyr
+	Attribute Label:  
+	Attribute Definition:  Year in which a stem was first observed to have reached the 2m minimum height to be recorded in the data
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  deathyr
+	Attribute Label:  
+	Attribute Definition:  Year in which a stem was first observed to be dead
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  censoryr
+	Attribute Label:  
+	Attribute Definition:  Year in which a stem was killed for study purposes (for example, pulled down to create an artificial gap)
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  yrMIA
+	Attribute Label:  
+	Attribute Definition:  Year in which a stem went missing.  This column is primarily technicians reference
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  postX
+	Attribute Label:  
+	Attribute Definition:  The x location of the reference post (of a 10m x 10m reference grid) to which the tree was mapped
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  postY
+	Attribute Label:  
+	Attribute Definition:  The y location of the reference post (of a 10m x 10m reference grid) to which the tree was mapped
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  localX
+	Attribute Label:  
+	Attribute Definition:  Distance in the x direction from the reference post at postX, postY
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  localY
+	Attribute Label:  
+	Attribute Definition:  Distance in the y direction from the reference post at postX, postY
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  x
+	Attribute Label:  
+	Attribute Definition:  The x coordinate of the tree relative to the field grid system; the sum of postX and localX
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  y
+	Attribute Label:  
+	Attribute Definition:  The y coordinate of the tree relative to the field grid system; the sum of postY and localY
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  UTM_Easting
+	Attribute Label:  
+	Attribute Definition:  Easting coordinate of tree location, zone 17N
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.0001
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  UTM_Northing
+	Attribute Label:  
+	Attribute Definition:  Northing coordinate of tree location, zone 17N
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.0001
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  elevation
+	Attribute Label:  
+	Attribute Definition:  The elevation in meters above sea level of the base of the tree
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.0001
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  diam2011
+	Attribute Label:  
+	Attribute Definition:  Diameter in cm at breast height in year 2011
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  centimeter
+		Precision:  0.01
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  diam2014
+	Attribute Label:  
+	Attribute Definition:  Diameter in cm at breast height in year 2014
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  centimeter
+		Precision:  0.01
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  sex2011
+	Attribute Label:  
+	Attribute Definition:  Reproductive status in year 2011 as observed in the field
+	Storage Type:  string
+	Measurement Scale: 
+		ND= Not Damage
+		NA= Not Applicable
+		D= Damaged
+		S= Snapped
+		CD= Canopy Damage
+	Missing Value Code: 
+
+
+	Attribute Name:  sex2014
+	Attribute Label:  
+	Attribute Definition:  Reproductive status in year 2014 as observed in the field
+	Storage Type:  string
+	Measurement Scale: 
+		Reproductive status in year 2014 as observed in the field
+	Missing Value Code: 
+
+
+	Attribute Name:  canopy2011
+	Attribute Label:  
+	Attribute Definition:  Canopy status in year 2011
+	Storage Type:  string
+	Measurement Scale: 
+		Canopy status in year 2011
+	Missing Value Code: 
+
+
+	Attribute Name:  canopy2014
+	Attribute Label:  
+	Attribute Definition:  Canopy status in year 2014
+	Storage Type:  string
+	Measurement Scale: 
+		Canopy status in year 2014
+	Missing Value Code: 
+
+
+	Attribute Name:  damage2010
+	Attribute Label:  
+	Attribute Definition:  Damaged observed in year 2010
+	Storage Type:  string
+	Measurement Scale: 
+		Damaged observed in year 2010
+	Missing Value Code: 
+
+
+	Attribute Name:  damage2011
+	Attribute Label:  
+	Attribute Definition:  Damaged observed in year 2011
+	Storage Type:  string
+	Measurement Scale: 
+		Damaged observed in year 2011
+	Missing Value Code: 
+
+
+	Attribute Name:  damage2014
+	Attribute Label:  
+	Attribute Definition:  Damaged observed in year 2014
+	Storage Type:  string
+	Measurement Scale: 
+		Damaged observed in year 2014
+	Missing Value Code: 
+
+
+	Attribute Name:  Notes2011
+	Attribute Label:  
+	Attribute Definition:  notes and comments, yr. 2011
+	Storage Type:  string
+	Measurement Scale: 
+		notes and comments, yr. 2011
+	Missing Value Code: 
+
+
+	Attribute Name:  Notes2014
+	Attribute Label:  
+	Attribute Definition:  notes and comments, yr. 2014
+	Storage Type:  string
+	Measurement Scale: 
+		notes and comments, yr. 2014
+	Missing Value Code: 
+
+
+	Attribute Name:  Site_Name
+	Attribute Label:  
+	Attribute Definition:  Site Name
+	Storage Type:  string
+	Measurement Scale: 
+		Site Name
+	Missing Value Code: 
+
+
+	Attribute Name:  trap_number
+	Attribute Label:  
+	Attribute Definition:  Trap number
+	Storage Type:  integer
+	Measurement Scale: 
+		Trap number
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  month
+	Attribute Label:  
+	Attribute Definition:  month
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  day
+	Attribute Label:  
+	Attribute Definition:  day
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  year
+	Attribute Label:  
+	Attribute Definition:  year
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  abieFras
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  abieFras_fruit
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  acerPens
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  acerRubr
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  acerSpic
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  acerUNKN
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  betuLent
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  betuAlle
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  betuUNKN
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  caryTome
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  cornFlor
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  faguGran
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  fraxAmer
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  fraxPenn
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  ilexMont
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  piceRube
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  piceRube_fruit
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  piceRubeImma
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  prunSero
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  rhodCata
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  sorbAmer
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  sorbAmer_fruit
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  unknUNKN
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  notes
+	Attribute Label:  
+	Attribute Definition:  notes and comments
+	Storage Type:  string
+	Measurement Scale: 
+		notes and comments
+	Missing Value Code: 
+
+
+	Attribute Name:  Site_Name
+	Attribute Label:  
+	Attribute Definition:  Site Name
+	Storage Type:  string
+	Measurement Scale: 
+		Site Name
+	Missing Value Code: 
+
+
+	Attribute Name:  ID
+	Attribute Label:  
+	Attribute Definition:  Unique tree id, Stem number is indicated by decimal
+	Storage Type:  string
+	Measurement Scale: 
+		Unique tree id, Stem number is indicated by decimal
+	Missing Value Code: 
+
+
+	Attribute Name:  tag
+	Attribute Label:  
+	Attribute Definition:  The tag number of the tree in the field
+	Storage Type:  integer
+	Measurement Scale: 
+		The tag number of the tree in the field
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  species
+	Attribute Label:  
+	Attribute Definition:  Species code (see species code table)
+	Storage Type:  string
+	Measurement Scale: 
+		Species code (see species code table)
+	Missing Value Code: 
+
+
+	Attribute Name:  stem
+	Attribute Label:  
+	Attribute Definition:  Number of stems
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  censinyr
+	Attribute Label:  
+	Attribute Definition:  Year in which a tree was censused in to the data, as opposed to growing in
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  growinyr
+	Attribute Label:  
+	Attribute Definition:  Year in which a stem was first observed to have reached the 2m minimum height to be recorded in the data
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  deathyr
+	Attribute Label:  
+	Attribute Definition:  Year in which a stem was first observed to be dead
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  censoryr
+	Attribute Label:  
+	Attribute Definition:  Year in which a stem was killed for study purposes (for example, pulled down to create an artificial gap)
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  yrMIA
+	Attribute Label:  
+	Attribute Definition:  Year in which a stem went missing.  This column is primarily technicians reference
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  postX
+	Attribute Label:  
+	Attribute Definition:  The x location of the reference post (of a 10m x 10m reference grid) to which the tree was mapped
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  postY
+	Attribute Label:  
+	Attribute Definition:  The y location of the reference post (of a 10m x 10m reference grid) to which the tree was mapped
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  localX
+	Attribute Label:  
+	Attribute Definition:  Distance in the x direction from the reference post at postX, postY
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  localY
+	Attribute Label:  
+	Attribute Definition:  Distance in the y direction from the reference post at postX, postY
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  x
+	Attribute Label:  
+	Attribute Definition:  The x coordinate of the tree relative to the field grid system; the sum of postX and localX
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  y
+	Attribute Label:  
+	Attribute Definition:  The y coordinate of the tree relative to the field grid system; the sum of postY and localY
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  UTM_Easting
+	Attribute Label:  
+	Attribute Definition:  Easting coordinate of tree location, zone 17N
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.0001
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  UTM_Northing
+	Attribute Label:  
+	Attribute Definition:  Northing coordinate of tree location, zone 17N
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.0001
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  elevation
+	Attribute Label:  
+	Attribute Definition:  The elevation in meters above sea level of the base of the tree
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.0001
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  diam2011
+	Attribute Label:  
+	Attribute Definition:  Diameter in cm at breast height in year 2011
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  centimeter
+		Precision:  0.01
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  diam2014
+	Attribute Label:  
+	Attribute Definition:  Diameter in cm at breast height in year 2014
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  centimeter
+		Precision:  0.01
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  sex2011
+	Attribute Label:  
+	Attribute Definition:  Reproductive status in year 2011 as observed in the field
+	Storage Type:  string
+	Measurement Scale: 
+		ND= Not Damage
+		NaN= Not Applicable
+		D= Damaged
+		S= Snapped
+		CD= Canopy Damage
+	Missing Value Code: 
+
+
+	Attribute Name:  sex2014
+	Attribute Label:  
+	Attribute Definition:  Reproductive status in year 2014 as observed in the field
+	Storage Type:  string
+	Measurement Scale: 
+		Reproductive status in year 2014 as observed in the field
+	Missing Value Code: 
+
+
+	Attribute Name:  canopy2011
+	Attribute Label:  
+	Attribute Definition:  Canopy status in year 2011
+	Storage Type:  string
+	Measurement Scale: 
+		Canopy status in year 2011
+	Missing Value Code: 
+
+
+	Attribute Name:  canopy2014
+	Attribute Label:  
+	Attribute Definition:  Canopy status in year 2014
+	Storage Type:  string
+	Measurement Scale: 
+		Canopy status in year 2014
+	Missing Value Code: 
+
+
+	Attribute Name:  damage2010
+	Attribute Label:  
+	Attribute Definition:  Damaged observed in year 2010
+	Storage Type:  string
+	Measurement Scale: 
+		Damaged observed in year 2010
+	Missing Value Code: 
+
+
+	Attribute Name:  damage2011
+	Attribute Label:  
+	Attribute Definition:  Damaged observed in year 2011
+	Storage Type:  string
+	Measurement Scale: 
+		Damaged observed in year 2011
+	Missing Value Code: 
+
+
+	Attribute Name:  damage2014
+	Attribute Label:  
+	Attribute Definition:  Damaged observed in year 2014
+	Storage Type:  string
+	Measurement Scale: 
+		Damaged observed in year 2014
+	Missing Value Code: 
+
+
+	Attribute Name:  Notes2011
+	Attribute Label:  
+	Attribute Definition:  notes and comments, yr. 2011
+	Storage Type:  string
+	Measurement Scale: 
+		notes and comments, yr. 2011
+	Missing Value Code: 
+
+
+	Attribute Name:  Notes2014
+	Attribute Label:  
+	Attribute Definition:  notes and comments, yr. 2014
+	Storage Type:  string
+	Measurement Scale: 
+		notes and comments, yr. 2014
+	Missing Value Code: 
+
+
+	Attribute Name:  Site_Name
+	Attribute Label:  
+	Attribute Definition:  Site Name
+	Storage Type:  string
+	Measurement Scale: 
+		Site Name
+	Missing Value Code: 
+
+
+	Attribute Name:  trap_number
+	Attribute Label:  
+	Attribute Definition:  Trap number
+	Storage Type:  integer
+	Measurement Scale: 
+		Trap number
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  month
+	Attribute Label:  
+	Attribute Definition:  month
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  day
+	Attribute Label:  
+	Attribute Definition:  day
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  year
+	Attribute Label:  
+	Attribute Definition:  year
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  acerPens
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  acerRubr
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  acerSacc
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  acerSpic
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  amelLaev
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  betuLent
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  caryTome
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  cornAlte
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  cornFlor
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  faguGran
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  fraxAmer
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  fraxPenn
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  kalmLati
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  liriTuli
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  magnTrip
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  oxydArbo
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  prunSero
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  querAlba
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  querCocc
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  querMich
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  querPrin
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  querRubr
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  querVelu
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  querUnkn
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  querImma
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  rhodCata
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  robiPseu
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  robiPseu_fruit
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  tiliAmer
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  tsugCana
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  tsugCana_fruit
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  sorbAmer
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  sorbAmer_fruit
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  unknUNKN
+	Attribute Label:  
+	Attribute Definition:   seed count (see species code table)
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  notes
+	Attribute Label:  
+	Attribute Definition:  notes and comments
+	Storage Type:  string
+	Measurement Scale: 
+		notes and comments
+	Missing Value Code: 
+
+
+	Attribute Name:  Site_Name
+	Attribute Label:  
+	Attribute Definition:  Site Name
+	Storage Type:  string
+	Measurement Scale: 
+		Site Name
+	Missing Value Code: 
+
+
+	Attribute Name:  ID
+	Attribute Label:  
+	Attribute Definition:  Unique tree id, Stem number is indicated by decimal
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  dimensionless
+		Precision:  0.01
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  tag
+	Attribute Label:  
+	Attribute Definition:  The tag number of the tree in the field
+	Storage Type:  integer
+	Measurement Scale: 
+		The tag number of the tree in the field
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  species
+	Attribute Label:  
+	Attribute Definition:  Species code (see species code table)
+	Storage Type:  string
+	Measurement Scale: 
+		Species code (see species code table)
+	Missing Value Code: 
+
+
+	Attribute Name:  stem
+	Attribute Label:  
+	Attribute Definition:  Number of stems
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  censinyr
+	Attribute Label:  
+	Attribute Definition:  Year in which a tree was censused in to the data, as opposed to growing in
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  growinyr
+	Attribute Label:  
+	Attribute Definition:  Year in which a stem was first observed to have reached the 2m minimum height to be recorded in the data
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  deathyr
+	Attribute Label:  
+	Attribute Definition:  Year in which a stem was first observed to be dead
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  censoryr
+	Attribute Label:  
+	Attribute Definition:  Year in which a stem was killed for study purposes (for example, pulled down to create an artificial gap)
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  yrMIA
+	Attribute Label:  
+	Attribute Definition:  Year in which a stem went missing.  This column is primarily technicians reference
+	Storage Type:  integer
+	Measurement Scale: 
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  postX
+	Attribute Label:  
+	Attribute Definition:  The x location of the reference post (of a 10m x 10m reference grid) to which the tree was mapped
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  postY
+	Attribute Label:  
+	Attribute Definition:  The y location of the reference post (of a 10m x 10m reference grid) to which the tree was mapped
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  localX
+	Attribute Label:  
+	Attribute Definition:  Distance in the x direction from the reference post at postX, postY
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  localY
+	Attribute Label:  
+	Attribute Definition:  Distance in the y direction from the reference post at postX, postY
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  x
+	Attribute Label:  
+	Attribute Definition:  The x coordinate of the tree relative to the field grid system; the sum of postX and localX
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  y
+	Attribute Label:  
+	Attribute Definition:  The y coordinate of the tree relative to the field grid system; the sum of postY and localY
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  UTM_Easting
+	Attribute Label:  
+	Attribute Definition:  Easting coordinate of tree location, zone 17N
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.0001
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  UTM_Northing
+	Attribute Label:  
+	Attribute Definition:  Northing coordinate of tree location, zone 17N
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.0001
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  elevation
+	Attribute Label:  
+	Attribute Definition:  The elevation in meters above sea level of the base of the tree
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.0001
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  diam2011
+	Attribute Label:  
+	Attribute Definition:  Diameter in cm at breast height in year 2011
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  centimeter
+		Precision:  0.01
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  diam2014
+	Attribute Label:  
+	Attribute Definition:  Diameter in cm at breast height in year 2014
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  centimeter
+		Precision:  0.01
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  sex2011
+	Attribute Label:  
+	Attribute Definition:  Reproductive status in year 2011 as observed in the field
+	Storage Type:  string
+	Measurement Scale: 
+		ND= Not Damage
+		NA= Not Applicable
+		D= Damaged
+		S= Snapped
+		CD= Canopy Damage
+	Missing Value Code: 
+
+
+	Attribute Name:  sex2014
+	Attribute Label:  
+	Attribute Definition:  Reproductive status in year 2014 as observed in the field
+	Storage Type:  string
+	Measurement Scale: 
+		Reproductive status in year 2014 as observed in the field
+	Missing Value Code: 
+
+
+	Attribute Name:  canopy2011
+	Attribute Label:  
+	Attribute Definition:  Canopy status in year 2011
+	Storage Type:  string
+	Measurement Scale: 
+		Canopy status in year 2011
+	Missing Value Code: 
+
+
+	Attribute Name:  canopy2014
+	Attribute Label:  
+	Attribute Definition:  Canopy status in year 2014
+	Storage Type:  string
+	Measurement Scale: 
+		Canopy status in year 2014
+	Missing Value Code: 
+
+
+	Attribute Name:  damage2010
+	Attribute Label:  
+	Attribute Definition:  Damaged observed in year 2010
+	Storage Type:  string
+	Measurement Scale: 
+		Damaged observed in year 2010
+	Missing Value Code: 
+
+
+	Attribute Name:  damage2011
+	Attribute Label:  
+	Attribute Definition:  Damaged observed in year 2011
+	Storage Type:  string
+	Measurement Scale: 
+		Damaged observed in year 2011
+	Missing Value Code: 
+
+
+	Attribute Name:  damage2014
+	Attribute Label:  
+	Attribute Definition:  Damaged observed in year 2014
+	Storage Type:  string
+	Measurement Scale: 
+		Damaged observed in year 2014
+	Missing Value Code: 
+
+
+	Attribute Name:  Notes2011
+	Attribute Label:  
+	Attribute Definition:  notes and comments, yr. 2011
+	Storage Type:  string
+	Measurement Scale: 
+		notes and comments, yr. 2011
+	Missing Value Code: 
+
+
+	Attribute Name:  Notes2014
+	Attribute Label:  
+	Attribute Definition:  notes and comments, yr. 2014
+	Storage Type:  string
+	Measurement Scale: 
+		notes and comments, yr. 2014
+	Missing Value Code: 
+
+
+	Attribute Name:  Site_name
+	Attribute Label:  
+	Attribute Definition:  Site name
+	Storage Type:  string
+	Measurement Scale: 
+		Site name
+	Missing Value Code: 
+
+
+	Attribute Name:  trap_number
+	Attribute Label:  
+	Attribute Definition:  Trap number
+	Storage Type:  integer
+	Measurement Scale: 
+		Trap number
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  UTM_Easting
+	Attribute Label:  
+	Attribute Definition:  Easting coordinate of tree location, zone 17N
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  UTM_Northing
+	Attribute Label:  
+	Attribute Definition:  Northing coordinate of tree location, zone 17N
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  elevation
+	Attribute Label:  
+	Attribute Definition:  elevation
+	Storage Type:  float
+	Measurement Scale: 
+		Units:  meter
+		Precision:  0.01
+		Number Type:  real
+	Missing Value Code: NaN  (value not recorded or invalid)
+
+
+	Attribute Name:  4_letter_code
+	Attribute Label:  
+	Attribute Definition:  4 letter tree code
+	Storage Type:  string
+	Measurement Scale: 
+		4 letter tree code
+	Missing Value Code: 
+
+
+	Attribute Name:  8_letter_code
+	Attribute Label:  
+	Attribute Definition:  8 letter tree code
+	Storage Type:  string
+	Measurement Scale: 
+		8 letter tree code
+	Missing Value Code: 
+
+
+	Attribute Name:  12_letter_code
+	Attribute Label:  
+	Attribute Definition:  12 letter tree code
+	Storage Type:  string
+	Measurement Scale: 
+		12 letter tree code
+	Missing Value Code: 
+
+
+	Attribute Name:  Genus
+	Attribute Label:  
+	Attribute Definition:  Genus of tree
+	Storage Type:  string
+	Measurement Scale: 
+		Genus of tree
+	Missing Value Code: 
+
+
+	Attribute Name:  Specific_Epithet
+	Attribute Label:  
+	Attribute Definition:  species of tree
+	Storage Type:  string
+	Measurement Scale: 
+		species of tree
+	Missing Value Code: 
+
+
+	Attribute Name:  Definition
+	Attribute Label:  
+	Attribute Definition:  further clarification of 12 letter code
+	Storage Type:  string
+	Measurement Scale: 
+		further clarification of 12 letter code
+	Missing Value Code: 
+
+

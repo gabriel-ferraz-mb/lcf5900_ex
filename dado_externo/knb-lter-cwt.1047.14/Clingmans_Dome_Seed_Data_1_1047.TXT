@@ -1,0 +1,197 @@
+Site_Name	trap_number	month	day	year	abieFras	abieFras_fruit	acerSpic	acerUNKN	betuUNKN	piceRube	piceRube_fruit	prunPens	rhodCata	sorbAmer	sorbAmer_fruit	vibuLant	unknUNKN	notes
+Clingman's_Dome	1	5	30	2012	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	
+Clingman's_Dome	2	5	30	2012	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	
+Clingman's_Dome	3	5	30	2012	4	0	0	0	0	4	0	0	0	0	0	0	0	
+Clingman's_Dome	4	5	30	2012	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	
+Clingman's_Dome	5	5	30	2012	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	
+Clingman's_Dome	6	5	30	2012	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	
+Clingman's_Dome	7	5	30	2012	1	0	0	0	1	5	0	0	0	0	0	0	0	
+Clingman's_Dome	8	5	30	2012	7	0	0	0	0	28	0	0	0	0	0	0	0	8 beun seedlings, 3 piru seedlings
+Clingman's_Dome	9	5	30	2012	1	0	1	0	1	25	0	0	0	0	0	0	0	2 piru seedlings
+Clingman's_Dome	10	5	30	2012	10	0	0	0	3	48	1	0	0	0	0	0	0	2 beun seedlings, 7 piru seedlings
+Clingman's_Dome	11	5	30	2012	5	0	0	0	3	15	0	0	0	0	0	0	0	1 beun sprout
+Clingman's_Dome	12	5	30	2012	6	0	1	0	2	0	0	0	0	0	0	1	8	6 piru sprouts, 1 beun sprout
+Clingman's_Dome	13	5	30	2012	0	0	0	0	0	19	0	0	0	0	0	0	0	5 piru sprouts
+Clingman's_Dome	14	5	30	2012	2	0	0	0	2	33	0	0	0	0	0	0	3	7 piru sprouts, 2 beun sprouts
+Clingman's_Dome	15	5	30	2012	0	0	0	0	0	36	1	0	0	0	0	2	12	10 piru sprouts
+Clingman's_Dome	16	5	30	2012	9	0	0	0	0	30	0	0	0	0	0	0	0	12 piru sprouts
+Clingman's_Dome	17	5	30	2012	1	1	1	0	0	23	0	0	0	0	0	2	35	4 piru sprouts
+Clingman's_Dome	18	5	30	2012	4	0	0	0	1	30	0	0	0	0	0	0	0	3 piru sprouts
+Clingman's_Dome	19	5	30	2012	1	0	0	0	0	14	0	0	0	0	0	0	0	
+Clingman's_Dome	20	5	30	2012	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	
+Clingman's_Dome	21	5	30	2012	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	
+Clingman's_Dome	22	5	30	2012	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	
+Clingman's_Dome	23	5	30	2012	0	0	0	0	0	28	1	0	0	0	0	0	0	spruce shells
+Clingman's_Dome	24	5	30	2012	1	0	0	0	0	24	1	0	0	0	0	4	41	5 piru sprouts; unkns are likely either piru without the wing; some of them are blackberry seeds
+Clingman's_Dome	25	5	30	2012	0	0	1	0	0	44	0	0	0	0	0	0	0	9 piru sprouts
+Clingman's_Dome	26	5	30	2012	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	
+Clingman's_Dome	27	5	30	2012	1	0	0	0	1	9	0	0	0	0	0	0	0	1 acru with animal damage, 1 piru sprout, 1 beun sprout
+Clingman's_Dome	28	5	30	2012	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	
+Clingman's_Dome	1	5	21	2013	0	0	0	0	0	17	0	0	0	0	0	0	0	contains piru pollen cones and piru scales
+Clingman's_Dome	2	5	21	2013	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	both basket 2 and 3 bags were found mixed in a larger bag for basket 3, all were counted together and recored as basket 3
+Clingman's_Dome	3	5	21	2013	16	0	0	0	0	5	4	0	0	0	0	0	0	both basket 2 and 3 bags were found mixed in a larger bag for basket 3, all were counted together and recored as basket 3
+Clingman's_Dome	4	5	21	2013	0	0	0	0	1	1	0	0	0	0	0	0	0	pollen cone
+Clingman's_Dome	5	5	21	2013	0	0	0	0	0	1	0	0	0	0	0	0	0	
+Clingman's_Dome	6	5	21	2013	0	0	0	0	0	4	0	0	0	0	0	0	0	contains piru pollen cones and piru scales
+Clingman's_Dome	7	5	21	2013	0	0	0	0	0	0	0	0	0	0	0	0	0	no seeds found, pollen cones
+Clingman's_Dome	8	5	21	2013	0	0	0	0	0	3	0	0	0	0	0	0	0	5 abfr scales found
+Clingman's_Dome	9	5	21	2013	0	0	0	0	0	4	0	0	0	0	0	0	0	
+Clingman's_Dome	10	5	21	2013	0	0	0	0	0	0	3	0	0	0	0	0	0	
+Clingman's_Dome	11	5	21	2013	0	0	0	0	0	0	0	0	0	0	0	0	0	no seeds found
+Clingman's_Dome	12	5	21	2013	0	0	0	0	0	7	0	0	0	0	0	0	0	
+Clingman's_Dome	13	5	21	2013	0	0	0	0	0	2	0	0	0	0	0	0	0	
+Clingman's_Dome	14	5	21	2013	0	0	0	0	0	2	0	0	0	0	0	0	0	contains piru pollen cones and piru scales
+Clingman's_Dome	15	5	21	2013	0	0	0	0	0	4	0	0	0	0	0	0	0	contains piru pollen cones and piru scales
+Clingman's_Dome	16	5	21	2013	0	0	0	0	0	1	0	0	0	0	0	0	0	
+Clingman's_Dome	17	5	21	2013	0	0	0	0	0	1	0	0	0	0	0	0	0	
+Clingman's_Dome	18	5	21	2013	0	0	0	0	0	2	0	0	0	0	0	0	0	
+Clingman's_Dome	19	5	21	2013	0	0	0	0	0	3	0	0	0	0	0	0	0	
+Clingman's_Dome	20	5	21	2013	0	0	0	0	0	37	7	0	0	0	0	0	0	contains piru pollen cones and piru scales
+Clingman's_Dome	21	5	21	2013	0	0	0	0	0	12	7	0	0	0	0	0	0	contains piru pollen cones and piru scales
+Clingman's_Dome	22	5	21	2013	0	0	0	0	0	6	0	0	0	0	0	0	0	
+Clingman's_Dome	23	5	21	2013	0	0	0	0	0	2	0	0	0	0	0	0	0	
+Clingman's_Dome	24	5	21	2013	0	0	0	0	0	33	1	0	0	0	0	0	0	
+Clingman's_Dome	25	5	21	2013	0	0	0	0	0	14	8	0	0	0	0	0	0	contains piru pollen cones and piru scales
+Clingman's_Dome	26	5	21	2013	0	0	0	0	0	1	3	0	0	0	0	0	0	
+Clingman's_Dome	27	5	21	2013	0	0	0	0	0	3	0	0	0	0	0	0	0	
+Clingman's_Dome	28	5	21	2013	0	0	0	0	2	6	2	0	0	0	0	0	0	betula lenta
+Clingman's_Dome	1	10	18	2013	4	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	2	10	18	2013	1	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	3	10	18	2013	1	0	0	0	0	2	1	1	0	0	0	0	0	
+Clingman's_Dome	4	10	18	2013	0	0	0	0	0	1	0	0	0	0	0	0	0	
+Clingman's_Dome	5	10	18	2013	0	0	0	0	0	2	0	1	0	0	0	0	0	hollow piru seeds
+Clingman's_Dome	6	10	18	2013	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	7	10	18	2013	0	0	0	0	0	9	0	0	0	0	0	0	0	some hollow piru seeds
+Clingman's_Dome	8	10	18	2013	0	0	0	0	0	0	0	0	0	1	0	0	1	
+Clingman's_Dome	9	10	18	2013	0	0	0	0	0	2	0	0	0	0	0	0	0	
+Clingman's_Dome	10	10	18	2013	0	0	0	0	0	3	0	0	0	0	17	0	0	
+Clingman's_Dome	11	10	18	2013	0	0	0	0	0	8	0	0	0	0	0	0	0	
+Clingman's_Dome	12	10	18	2013	1	0	0	0	0	2	0	0	0	0	0	0	0	
+Clingman's_Dome	13	10	18	2013	0	0	0	0	0	4	0	0	0	0	0	0	0	hollow piru
+Clingman's_Dome	14	10	18	2013	1	0	0	0	0	54	1	0	0	0	0	0	0	
+Clingman's_Dome	15	10	18	2013	0	0	0	0	0	2	0	0	0	0	0	0	0	
+Clingman's_Dome	16	10	18	2013	0	0	0	0	0	1	0	0	0	0	0	0	0	
+Clingman's_Dome	17	10	18	2013	0	0	0	0	0	2	0	0	0	0	0	0	0	hollow piru
+Clingman's_Dome	18	10	18	2013	0	0	0	0	0	2	0	0	0	0	0	0	0	
+Clingman's_Dome	19	10	18	2013	0	0	0	0	0	1	0	0	0	0	0	0	0	
+Clingman's_Dome	20	10	18	2013	0	0	0	0	0	4	0	0	0	0	0	0	0	3 immature male cones?
+Clingman's_Dome	21	10	18	2013	0	0	0	1	0	1	0	0	0	1	0	0	0	hollow piru seed
+Clingman's_Dome	22	10	18	2013	0	0	0	0	0	54	5	0	0	0	0	0	0	
+Clingman's_Dome	23	10	18	2013	0	0	0	0	0	2	1	0	0	0	0	0	1	
+Clingman's_Dome	24	10	18	2013	0	0	0	0	0	15	2	0	0	0	0	0	0	some hollow and wingless
+Clingman's_Dome	25	10	18	2013	0	0	0	0	0	7	6	0	0	0	0	0	0	
+Clingman's_Dome	26	10	18	2013	0	0	0	0	0	4	8	0	0	0	0	0	0	also, 1 small piece of piru fruit
+Clingman's_Dome	27	10	18	2013	0	0	0	0	0	8	0	0	0	0	0	0	0	
+Clingman's_Dome	28	10	18	2013	0	0	0	0	0	6	9	0	0	0	0	0	0	
+Clingman's_Dome	1	6	9	2014	223	0	0	0	0	46	2	0	0	0	0	0	0	abfr cone pieces
+Clingman's_Dome	2	6	9	2014	91	0	0	0	0	4	0	0	0	0	0	0	0	piru and abfr scales
+Clingman's_Dome	3	6	9	2014	115	0	0	0	0	43	1	0	0	0	0	0	0	piru and abfr scales
+Clingman's_Dome	4	6	9	2014	9	0	0	0	0	10	0	0	0	0	0	0	0	
+Clingman's_Dome	5	6	9	2014	15	0	0	0	0	83	1	0	0	0	0	0	0	
+Clingman's_Dome	6	6	9	2014	19	0	0	0	0	51	0	0	0	0	0	0	0	piru keys and scales
+Clingman's_Dome	7	6	9	2014	7	0	0	0	0	53	0	0	0	0	0	0	0	piru andd abfr cone pieces
+Clingman's_Dome	8	6	9	2014	16	0	0	0	1	33	2	0	0	0	0	0	0	abfr cone pieces
+Clingman's_Dome	9	6	9	2014	39	0	0	0	1	83	0	0	0	0	0	0	0	
+Clingman's_Dome	10	6	9	2014	5	0	0	0	0	165	2	0	0	0	0	0	0	
+Clingman's_Dome	11	6	9	2014	11	0	0	0	0	16	0	0	0	0	0	0	0	
+Clingman's_Dome	12	6	9	2014	7	0	0	0	1	33	0	0	0	0	0	0	0	piru and abfr scales
+Clingman's_Dome	13	6	9	2014	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	basket smashed
+Clingman's_Dome	14	6	9	2014	10	0	0	0	0	219	4	0	0	0	0	0	0	
+Clingman's_Dome	15	6	9	2014	0	0	0	0	0	59	1	0	0	0	0	0	0	piru keys 
+Clingman's_Dome	16	6	9	2014	2	0	0	0	1	43	0	0	0	0	0	0	0	piru scales
+Clingman's_Dome	17	6	9	2014	42	0	0	0	0	87	1	0	0	0	0	0	0	piru and abfr scales
+Clingman's_Dome	18	6	9	2014	6	0	0	0	0	74	0	0	0	0	0	0	0	piru keys
+Clingman's_Dome	19	6	9	2014	16	0	0	NaN	0	51	0	0	0	0	0	0	0	piru keys and scales
+Clingman's_Dome	20	6	9	2014	15	0	0	0	0	164	1	0	0	0	0	0	0	piru scales
+Clingman's_Dome	21	6	9	2014	31	0	0	0	0	206	3	0	0	0	0	0	0	betula bracts
+Clingman's_Dome	22	6	9	2014	1	0	0	0	0	138	0	0	0	0	0	0	0	piru and abfr scales
+Clingman's_Dome	23	6	9	2014	2	0	0	0	0	114	2	0	0	0	0	0	0	
+Clingman's_Dome	24	6	9	2014	0	0	0	0	0	192	6	0	0	0	0	0	0	piru scales
+Clingman's_Dome	25	6	9	2014	3	0	0	0	0	91	1	0	0	0	0	0	0	piru scales
+Clingman's_Dome	26	6	9	2014	1	0	0	0	0	271	5	0	0	0	0	0	0	
+Clingman's_Dome	27	6	9	2014	2	0	0	0	1	27	1	0	0	0	0	0	0	
+Clingman's_Dome	28	6	9	2014	3	0	0	0	0	33	8	0	0	0	0	0	0	
+Clingman's_Dome	1	10	28	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	2	10	28	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	3	10	28	2014	0	0	0	0	0	0	2	0	0	0	0	0	0	
+Clingman's_Dome	4	10	28	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	5	10	28	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	6	10	28	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	7	10	28	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	8	10	28	2014	0	0	0	0	0	0	1	0	0	0	0	0	0	
+Clingman's_Dome	9	10	28	2014	0	0	0	0	0	0	1	0	0	0	0	0	0	
+Clingman's_Dome	10	10	28	2014	0	0	0	0	0	0	2	0	0	0	0	0	0	
+Clingman's_Dome	11	10	28	2014	0	0	0	0	0	0	1	0	0	0	0	0	0	
+Clingman's_Dome	12	10	28	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	13	10	28	2014	0	0	0	0	0	0	1	0	0	0	0	0	0	
+Clingman's_Dome	14	10	28	2014	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	basket was not collected
+Clingman's_Dome	15	10	28	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	16	10	28	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	17	10	28	2014	0	0	0	0	0	0	2	0	0	0	0	0	0	
+Clingman's_Dome	18	10	28	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	19	10	28	2014	0	0	0	0	0	0	1	0	0	0	0	0	0	
+Clingman's_Dome	20	10	28	2014	0	0	0	0	0	0	7	0	0	0	0	0	0	
+Clingman's_Dome	21	10	28	2014	0	0	0	0	0	0	6	0	0	0	0	0	0	
+Clingman's_Dome	22	10	28	2014	0	0	0	0	0	0	1	0	0	0	0	0	0	
+Clingman's_Dome	23	10	28	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	24	10	28	2014	0	0	0	0	0	0	4	0	0	0	0	0	0	
+Clingman's_Dome	25	10	28	2014	0	0	0	0	0	0	8	0	0	0	0	0	0	
+Clingman's_Dome	26	10	28	2014	0	0	0	0	0	0	2	0	0	0	0	0	0	
+Clingman's_Dome	27	10	28	2014	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	28	10	28	2014	0	0	0	0	0	0	4	0	0	0	0	0	0	
+Clingman's_Dome	1	5	14	2015	12	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	2	5	14	2015	7	0	0	0	1	2	0	0	0	0	0	0	0	
+Clingman's_Dome	3	5	14	2015	8	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	4	5	14	2015	0	0	0	0	0	1	0	0	0	0	0	0	0	
+Clingman's_Dome	5	5	14	2015	0	0	0	0	0	5	0	0	0	0	0	0	0	
+Clingman's_Dome	6	5	14	2015	0	0	0	0	1	1	0	0	0	0	0	0	0	
+Clingman's_Dome	7	5	14	2015	0	0	0	0	0	4	1	0	0	0	0	0	0	
+Clingman's_Dome	8	5	14	2015	0	0	0	0	0	1	0	0	0	0	0	0	0	
+Clingman's_Dome	9	5	14	2015	0	0	0	0	0	3	0	0	0	0	0	0	0	
+Clingman's_Dome	10	5	14	2015	0	0	0	0	0	29	3	0	0	0	0	0	45	viun
+Clingman's_Dome	11	5	14	2015	0	0	0	0	2	12	0	0	0	0	0	0	1	rubus unkn
+Clingman's_Dome	12	5	14	2015	0	0	0	0	0	9	0	0	0	0	0	0	1	rubus unkn
+Clingman's_Dome	13	5	14	2015	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	no sample netting ripped
+Clingman's_Dome	14	5	14	2015	4	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	15	5	14	2015	0	0	0	0	0	4	0	0	0	0	0	0	0	
+Clingman's_Dome	16	5	14	2015	0	0	0	0	0	5	0	0	0	0	0	0	0	
+Clingman's_Dome	17	5	14	2015	0	0	0	0	0	16	0	0	0	0	0	0	0	
+Clingman's_Dome	18	5	14	2015	0	0	0	0	1	5	0	0	0	0	0	0	0	
+Clingman's_Dome	19	5	14	2015	0	0	0	0	0	9	0	0	0	0	0	0	1	rubus unkn
+Clingman's_Dome	20	5	14	2015	0	0	0	0	3	75	4	0	0	0	0	0	0	
+Clingman's_Dome	21	5	14	2015	0	0	0	0	0	18	1	0	0	0	0	0	1	
+Clingman's_Dome	22	5	14	2015	3	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	23	5	14	2015	0	0	0	0	0	7	1	0	0	0	0	0	0	
+Clingman's_Dome	24	5	14	2015	12	0	0	0	0	0	0	0	0	0	0	0	4	rubus unkn
+Clingman's_Dome	25	5	14	2015	0	0	0	0	1	87	4	0	0	0	0	0	0	
+Clingman's_Dome	26	5	14	2015	0	0	0	0	1	17	1	0	0	0	0	0	0	
+Clingman's_Dome	27	5	14	2015	0	0	0	0	0	5	0	0	0	0	0	0	5	rubus unkn
+Clingman's_Dome	28	5	14	2015	0	0	0	0	0	39	3	0	0	0	0	0	0	
+Clingman's_Dome	1	10	26	2015	0	0	0	0	0	69	2	0	0	0	0	0	0	
+Clingman's_Dome	2	10	26	2015	0	0	0	0	0	163	0	0	0	0	0	0	0	
+Clingman's_Dome	3	10	26	2015	0	0	0	0	0	27	1	0	0	0	0	0	0	
+Clingman's_Dome	4	10	26	2015	0	0	0	0	0	22	0	0	0	0	0	0	0	
+Clingman's_Dome	5	10	26	2015	0	0	0	0	0	6	0	0	0	0	0	0	0	
+Clingman's_Dome	6	10	26	2015	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	7	10	26	2015	0	0	0	0	0	9	0	0	0	0	0	0	0	
+Clingman's_Dome	8	10	26	2015	0	0	0	0	0	6	0	0	0	0	0	0	0	
+Clingman's_Dome	9	10	26	2015	0	0	0	0	0	3	0	0	0	0	0	0	0	
+Clingman's_Dome	10	10	26	2015	0	0	0	0	0	1	0	0	0	0	0	0	0	
+Clingman's_Dome	11	10	26	2015	0	0	0	0	0	3	0	0	0	0	0	0	0	
+Clingman's_Dome	12	10	26	2015	0	0	0	0	0	1	0	0	0	0	0	0	0	
+Clingman's_Dome	13	10	26	2015	0	0	0	0	0	3	0	0	0	0	0	0	0	
+Clingman's_Dome	14	10	26	2015	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	15	10	26	2015	0	0	0	0	0	4	0	0	0	0	0	0	0	
+Clingman's_Dome	16	10	26	2015	0	0	0	0	0	4	0	0	0	0	0	0	0	
+Clingman's_Dome	17	10	26	2015	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	basket smashed no collection
+Clingman's_Dome	18	10	26	2015	0	0	0	0	0	22	0	0	0	0	0	0	0	
+Clingman's_Dome	19	10	26	2015	0	0	0	0	0	4	0	0	0	0	0	0	0	
+Clingman's_Dome	20	10	26	2015	0	0	0	0	0	7	1	0	0	0	0	0	0	
+Clingman's_Dome	21	10	26	2015	0	0	0	0	0	5	1	0	0	0	0	0	0	
+Clingman's_Dome	22	10	26	2015	0	0	0	0	0	3	1	0	0	0	0	0	0	
+Clingman's_Dome	23	10	26	2015	0	0	0	0	0	2	0	0	0	0	0	0	0	
+Clingman's_Dome	24	10	26	2015	0	0	0	0	0	1	3	0	0	0	14	0	0	
+Clingman's_Dome	25	10	26	2015	0	0	0	0	0	0	1	0	0	0	0	0	0	
+Clingman's_Dome	26	10	26	2015	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Clingman's_Dome	27	10	26	2015	0	0	0	0	0	1	0	0	0	0	0	0	0	
+Clingman's_Dome	28	10	26	2015	0	0	0	0	0	4	0	0	0	0	0	0	0	

@@ -1,0 +1,11 @@
+Manifest file for knb-lter-hfr.277.6.zip created on Mon Jun 08 19:13:31 UTC 2026
+hf277-01-HF-hardwood-2007.csv (57372 bytes)
+hf277-02-HF-hardwood-2010.csv (34886 bytes)
+hf277-03-HF-hardwood-2011.csv (34421 bytes)
+hf277-04-HF-hardwood-2012.csv (35801 bytes)
+hf277-05-HF-hardwood-2013.csv (30153 bytes)
+hf277-06-HF-hardwood-2014.csv (34110 bytes)
+hf277-07-HF-hardwood-plot-layout.png  (31669 bytes)
+knb-lter-hfr.277.6.xml (108274 bytes)
+knb-lter-hfr.277.6.txt (60864 bytes)
+knb-lter-hfr.277.6.report.xml (138337 bytes)

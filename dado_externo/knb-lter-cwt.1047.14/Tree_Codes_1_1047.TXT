@@ -1,0 +1,35 @@
+4_letter_code	8_letter_code	12_letter_code	Genus	Specific_Epithet	Definition
+abfr	abieFras		Abies	fraseri	
+acpe	acerPens		Acer	pensylvanicum	
+acru	acerRubr		Acer	rubrum	
+acsa	acerSacc		Acer	saccharum	
+acsp	acerSpic		Acer	spicatum	
+amla	amelLaev		Amelanchier 	laevis	
+beta	betuAlle		Betula	alleghaniensis	
+betl	betuLent		Betula	lenta	
+cato	caryTome		Carya 	tomentosa	
+cofl	cornFlor		Cornus	florida	
+fagr	faguGran		Fagus	grandifolia	
+frpe	fraxPenn		Fraxinus	pennsylvanica	
+kala	kalmLati		Kalmia	latifolia 	
+litu	liriTuli		Liriodendron	tulipifera 	
+matr	magnTrip		Magnolia	tripetala	
+oxar	oxydArbo		Oxydendrum	arboreum	
+piru	piceRube		Picea	rubens	
+prse	prunSero		Prunus	serotina	
+qual	querAlba		Quercus	alba 	
+quco	querCocc		Quercus	coccinea	
+qumi	querMich		Quercus	michauxii	
+qupr	querPrin		Quercus	prinus 	
+quru	querRubr		Quercus	rubra 	
+quve	querVelu		Quercus	velutina	
+rhca	rhodCata		Rhododendron	catawbiense	
+rops	robiPseu		Robinia	pseudoacacia 	
+soam	sorbAmer		Sorbus	americana 	
+tiam	tiliAmer		Tilia	americana 	
+tsca	tsugCana		Tsuga	canadensis	
+vila	vibuLant		Viburnum	lantanoides	
+	xxxxUNKN				of genus xxxx, but not sure of species
+		xxxxXxxxIMMA			genus or species known, but seed/fruit is immature/aborted such that it is too underdeveloped to have ever been viable
+		xxxxXxxx_fruit			refers to the entire fruiting body as opposed to the seed itself; this can refer to cones, pods, gumballs, drupes that still have the fleshy mesocarp present, etc; winged nutlets, nuts with husks still present, and samaras are not considered fruit; in the case of a tulip poplar cone, separate the cone into its separate seeds and count those individually, not the cone itself
+		unknUNKN			unknown fruit or seed

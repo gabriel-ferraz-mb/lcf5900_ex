@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding="UTF-8" ?><kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="custom-style">
+      <BalloonStyle>
+        <bgColor>ffcbe9e8</bgColor>
+        <textColor>ff000000</textColor>
+      </BalloonStyle>
+      <LineStyle>
+        <color>ff00ffff</color>
+        <colorMode>normal</colorMode>
+        <width>2</width>
+      </LineStyle>
+      <IconStyle>
+        <color>ff0000ee</color>
+        <colorMode>normal</colorMode>
+        <scale>0.6</scale>
+      </IconStyle>
+      <PolyStyle>
+        <color>7f00ffff</color>
+        <colorMode>normal</colorMode>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    
+    
+    <Placemark><name>Clingman&apos;s Dome plot center</name><description>Clingman&apos;s Dome plot center (Research study sampling sites (investigator-defined))</description><styleUrl>#custom-style</styleUrl><Point><coordinates>-83.494754,35.565277</coordinates></Point></Placemark><Placemark><name>Noland Divide plot center</name><description>Noland Divide plot center (Research study sampling sites (investigator-defined))</description><styleUrl>#custom-style</styleUrl><Point><coordinates>-83.476420,35.564223</coordinates></Point></Placemark><Placemark><name>Purchase Knob plot center</name><description>Purchase Knob plot center (Research study sampling sites (investigator-defined))</description><styleUrl>#custom-style</styleUrl><Point><coordinates>-83.080684,35.587625</coordinates></Point></Placemark>
+  </Document>
+</kml>
