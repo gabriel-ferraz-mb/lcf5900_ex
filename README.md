@@ -1,177 +1,87 @@
-====== Gabriel Ferraz ======
+# lcf5900_ex
 
------
+Repositório com os exercícios desenvolvidos na disciplina **LCF5900 — Processamento Reproduzível e Aberto de Dados Científicos** (ESALQ/USP, 2026), reunindo dois exercícios de análise de dados abertos: dados climáticos e vulnerabilidade climática de florestas do Sul dos Apalaches.
 
-==== Biografia ====
+## Estrutura do repositório
 
-<html>
-<style>
-  .contact-links {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 12px;
-    margin-bottom: 18px;
-  }
-  .link-badge {
-    display: inline-block;
-    padding: 7px 15px;
-    border-radius: 6px;
-    text-decoration: none !important;
-    color: #ffffff !important;
-    font-weight: 600;
-    font-size: 0.88em;
-    letter-spacing: 0.2px;
-    transition: opacity 0.2s ease, transform 0.2s ease;
-  }
-  .link-badge:hover {
-    opacity: 0.85;
-    transform: translateY(-1px);
-  }
-  .badge-mail { background-color: #16a085; }
-  .badge-git  { background-color: #145a44; }
+- `/clima` — organização e análise dos dados climáticos disponibilizados no material da disciplina.
+- `/dado_externo` — análise do dataset externo **knb-lter-cwt.1047.14**, sobre vulnerabilidade climática de florestas do Sul dos Apalaches.
 
-  .bio-paragraph {
-    line-height: 1.65;
-    color: #2b2b2b;
-    text-align: justify;
-    font-size: 1.02em;
-  }
-</style>
+---
 
-<div class="contact-links">
-  <a href="mailto:gabriel.ferraz@usp.br" class="link-badge badge-mail">✉ E-mail</a>
-  <a href="https://github.com/gabriel-ferraz-mb" class="link-badge badge-git" target="_blank">🔗 Github</a>
-</div>
-</html>
+## Exercício 1 — Clima
 
-{{:opensci:2026:alunos:img_1045.jpg?400|}}
+Dados climáticos organizados a partir do material disponibilizado na disciplina ("Organizando Dados Climáticos"), com tratamento, estruturação e exploração da série para fins de reprodutibilidade da análise.
 
-<html>
-<p class="bio-paragraph">
-  Graduado em Engenharia Agronômica pela ESALQ/USP em 2019, venho atuando no desenvolvimento soluções aplicando técnicas de ciência de dados e geoprocessamento no contexto agrícola, ambiental e ao mercado de carbono. Atualmente sou aluno de mestrado no Programa de Pós-Graduação em Recursos Florestais da ESALQ/USP, desenvolvendo pesquisa em sensoriamento remoto e aprendizado de máquina com foco em Deep Learning.
-</p>
-</html>
+---
 
------
+## Exercício 2 — Apalaches: Vulnerabilidade Climática de Florestas do Sul dos Apalaches
 
-==== Exercícios ====
+Este exercício contém scripts e análises relacionadas ao dataset **knb-lter-cwt.1047.14**, focado na vulnerabilidade climática das florestas do Sul dos Apalaches. O projeto investiga como as mudanças climáticas afetam a dinâmica populacional de espécies arbóreas, incluindo crescimento, mortalidade e reprodução.
 
-Apresento aqui o resultado das atividades que desenvolvi durante o curso [[https://edisciplinas.usp.br/course/view.php?id=136806|LCF5900]] (Processamento Reproduzível e Aberto de Dados Científicos, Edição 2026) enquanto explorava diferentes ferramentas de compartilhamento de dados que tornam reproduzíveis as análises que fiz desses dados.
+### Pergunta de pesquisa
 
-  * **Clima**: dados organizados a partir do material do curso, disponível em [[https://edisciplinas.usp.br/course/view.php?id=127212&section=3#tabs-tree-start|"Organizando Dados Climáticos"]].
-  * **Apalaches**: dataset **knb-lter-cwt.1047.14** ("Climate Vulnerability of Southern Appalachian Forests"), do programa de Pesquisa Ecológica de Longa Duração de Coweeta (CWT-LTER), extraído do repositório [[https://edirepository.org/|Environmental Data Initiative]]. Investiga como a dinâmica de crescimento, mortalidade e reprodução de espécies arbóreas nos Apalaches do Sul varia em resposta às condições climáticas.
-  * **Araucária**: dados próprios da minha pesquisa de mestrado, voltada à detecção de indivíduos de araucária (Araucaria angustifolia) em imagens de satélite por meio de um modelo de deep learning (YOLO) — veja o repositório [[https://github.com/gabriel-ferraz-mb/araucaria_yolo|araucaria_yolo]].
+> Como a dinâmica de crescimento, mortalidade e reprodução das espécies arbóreas nos Apalaches do Sul varia em resposta às condições ambientais ao longo do tempo, e quais espécies demonstram maior resiliência ou vulnerabilidade?
 
-Os exercícios que criei com base nessas bases de dados podem ser acessados através dos links organizados na tabela abaixo:
+### Descrição do dataset (knb-lter-cwt.1047.14)
 
-<html>
-<style>
-  .table-container {
-    overflow-x: auto;
-    margin: 25px 0;
-    border-radius: 6px;
-    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.1);
-  }
-  .exercise-table {
-    border-collapse: collapse;
-    width: 100%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #ffffff;
-  }
-  .exercise-table thead tr.head-main th {
-    background-color: #0d3c2c !important;
-    color: #ffffff !important;
-  }
-  .exercise-table thead tr.head-sub th {
-    background-color: #124f39 !important;
-    color: #ffffff !important;
-    font-size: 0.88em;
-  }
-  .exercise-table th {
-    padding: 12px !important;
-    font-weight: 700;
-    color: #ffffff !important;
-    border: none !important;
-  }
-  .exercise-table td {
-    padding: 12px;
-    text-align: center;
-    border-bottom: 1px solid #eeeeee;
-    vertical-align: middle;
-  }
-  .exercise-table tbody tr:hover {
-    background-color: #f4f9f7;
-  }
-  .row-label {
-    font-weight: 600;
-    color: #145a44;
-    background-color: #f7faf9;
-    border-right: 1px solid #eeeeee;
-  }
-  .tag {
-    display: inline-block;
-    padding: 5px 10px;
-    margin: 3px 0;
-    border-radius: 5px;
-    text-decoration: none !important;
-    color: #ffffff !important;
-    font-weight: 500;
-    font-size: 0.85em;
-  }
-  .tag-doku   { background-color: #2980b9; }
-  .tag-git    { background-color: #34495e; }
-  .tag-script { background-color: #27ae60; }
-  .tag-note   { background-color: #d35400; }
-</style>
+O dataset *"Climate Vulnerability of Southern Appalachian Forests"*, identificado pelo código `knb-lter-cwt.1047.14`, é parte do programa de Pesquisa Ecológica de Longa Duração de Coweeta (CWT-LTER). O estudo, liderado pelo Dr. James S. Clark (Duke University), investiga como as mudanças climáticas — especificamente variações de temperatura e umidade — afetam a biodiversidade florestal, focando nas respostas individuais das árvores em termos de fecundidade, crescimento e sobrevivência, permitindo prever mudanças na composição das espécies conforme o clima evolui.
 
-<div class="table-container">
-  <table class="exercise-table">
-    <thead>
-      <tr class="head-main">
-        <th rowspan="2">Ferramenta</th>
-        <th colspan="3">Base de Dados</th>
-      </tr>
-      <tr class="head-sub">
-        <th>Clima</th>
-        <th>Apalaches</th>
-        <th>Araucária</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="row-label">Dokuwiki</td>
-        <td><a href="https://guarani.esalq.usp.br/doku.php?id=opensci:2025:modelo:do_1" class="tag tag-doku" target="_blank">📘 do_1</a></td>
-        <td><a href="https://guarani.esalq.usp.br/doku.php?id=opensci:2025:modelo:do_2" class="tag tag-doku" target="_blank">📘 do_2</a></td>
-        <td><a href="https://guarani.esalq.usp.br/doku.php?id=opensci:2025:modelo:do_3" class="tag tag-doku" target="_blank">📘 do_3</a></td>
-      </tr>
-      <tr>
-        <td class="row-label">Github</td>
-        <td><a href="https://github.com/gabriel-ferraz-mb/lcf5900_ex/tree/main/clima" class="tag tag-git" target="_blank">🔗 gi_1</a></td>
-        <td><a href="https://github.com/gabriel-ferraz-mb/lcf5900_ex/tree/main/dado_externo" class="tag tag-git" target="_blank">🔗 gi_2</a></td>
-        <td><a href="https://github.com/gabriel-ferraz-mb/araucaria_yolo" class="tag tag-git" target="_blank">🔗 gi_3</a></td>
-      </tr>
-      <tr>
-        <td class="row-label">Posit Cloud</td>
-        <td><a href="https://posit.cloud/content/12539686" class="tag tag-script" target="_blank">🧮 sc_1</a></td>
-        <td><a href="https://posit.cloud/content/12586915" class="tag tag-script" target="_blank">🧮 sc_2</a></td>
-        <td><a href="" class="tag tag-script" target="_blank">🧮 sc_3</a></td>
-      </tr>
-      <tr>
-        <td class="row-label">Notebook</td>
-        <td><a href="" class="tag tag-note" target="_blank">📔 co_1</a></td>
-        <td><a href="" class="tag tag-note" target="_blank">📔 co_2</a></td>
-        <td><a href="https://github.com/gabriel-ferraz-mb/araucaria_yolo/blob/main/codes/2_TrainYOLO.py" class="tag tag-note" target="_blank">📔 co_3</a></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-</html>
+### Escopo e metodologia
 
-Ao clicar em **do_#**, acessa-se uma página no [[https://www.dokuwiki.org/dokuwiki|Dokuwiki]] com uma explicação detalhada do exercício envolvendo o respectivo conjunto de dados.
+| Atributo | Descrição |
+|---|---|
+| Período temporal | 1º de janeiro de 2011 a 31 de dezembro de 2017 |
+| Localização geográfica | Laboratório Hidrológico de Coweeta, Carolina do Norte, EUA (incluindo Clingmans Dome e Purchase Knob) |
+| Metodologia de censo | Mapeamento e monitoramento de árvores com altura superior a 2 m, marcadas com etiquetas de alumínio |
+| Coleta de sementes | Armadilhas de sementes (25 por parcela), visitadas duas vezes ao ano (primavera e outono) |
 
-Ao clicar em **gi_#**, acessa-se a plataforma [[https://github.com/|GitHub]], que dá acesso aos dados brutos e à documentação complementar do respectivo conjunto de dados.
+### Estrutura dos dados e variáveis-chave
 
-Ao clicar em **sc_#**, acessa-se a plataforma [[https://posit.cloud/plans/free|Posit Cloud]] com o script utilizado para analisar o respectivo conjunto de dados.
+O banco de dados é estruturado em tabelas que separam dados de censo arbóreo e dados de produção de sementes:
 
-Ao clicar em **co_#**, acessa-se o caderno [[https://colab.google/|Google Colab]] ou [[https://jupyter.org/try|Jupyter Notebook]] com a análise do respectivo conjunto de dados, incluindo o código R ou Python utilizado.
+- **Dados de censo de árvores**: identificadores únicos (`ID`, `tag`), espécie (`species`), status de vida (`growinyr`, `censinyr`, `deathyr`), localização espacial (`postX`, `postY`, `UTM_Easting`, `UTM_Northing`) e medições físicas (ex.: `diam2011`, `diam2014` para DBH).
+- **Dados de produção de sementes**: contagens de sementes por espécie (ex.: `abieFras`, `acerSpic`, `piceRube`, `sorbAmer`) e notas (`notes`).
+
+Os metadados seguem o padrão **EML 2.1.0** (Ecological Metadata Language), garantindo interoperabilidade e riqueza de detalhes sobre coleta e processamento dos dados.
+
+### Análises e visualizações
+
+O script `knb-lter-cwt.1047.14.r` baixa e prepara os dados; `analysis_and_viz.R` realiza a síntese ecológica, integrando dados demográficos individuais com padrões reprodutivos de longo prazo. Primeiro é feito o processamento longitudinal para calcular incremento diamétrico (crescimento) e taxas de mortalidade anual, identificando tendências de vigor biológico entre espécies. Em seguida, a análise espacial mapeia a distribuição das comunidades, permitindo investigar padrões de competição e ocupação de nicho dentro das parcelas.
+
+Também são processadas as séries temporais de produção de sementes, correlacionando o sucesso reprodutivo com as janelas de observação. As visualizações — boxplots de crescimento, gráficos de tendências anuais — transformam os dados tabulares em indicadores visuais da saúde do ecossistema, servindo de base para modelar a vulnerabilidade climática da floresta.
+
+Principais análises em `analysis_and_viz.R`:
+
+- Tendência temporal da produção de sementes (gráfico de linhas, contagem anual por espécie).
+- Crescimento de árvores — DBH por espécie (boxplot, mudança entre 2011 e 2014).
+- Taxa de mortalidade de árvores (gráfico de barras, mortes registradas por ano).
+- Distribuição espacial das árvores (dispersão das coordenadas UTM por espécie).
+
+### Como usar
+
+**Pré-requisitos**: ter o R instalado.
+
+**Pacotes R**:
+
+```r
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("tidyr")
+```
+
+**Download dos dados**: o script `knb-lter-cwt.1047.14.r` já inclui a lógica para baixar os dados diretamente do repositório EDI.
+
+**Executar**: abra `knb-lter-cwt.1047.14.r` no RStudio (ou outro ambiente R) e execute-o. Certifique-se de que `analysis_and_viz.R` esteja no mesmo diretório, ou ajuste o caminho conforme necessário.
+
+**Resultados**: os gráficos gerados são salvos como arquivos PNG no diretório de trabalho do script.
+
+---
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, correções ou novas análises.
+
+## Licença
+
+Este projeto é distribuído sob a licença MIT.
